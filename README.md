@@ -1,6 +1,6 @@
 # E-Commerce Backend (Django)
 
-RESTful backend for an e-commerce application built with Django and Django REST Framework.
+RESTful backend for an e-commerce application built with Django and Django REST Framework. Designed to be consumed by a React frontend.
 
 ## Features
 - User authentication
